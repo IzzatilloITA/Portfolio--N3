@@ -22,6 +22,9 @@ a{
 }
 .information{
     margin-top: 20px;
+}
+.im-nain{
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     gap: 150px;
@@ -30,6 +33,7 @@ a{
     display: flex;
     flex-direction: row;
     gap: 100px;
+    margin: 0 auto;
 }
 .header_main{
     margin-top: 20px;
@@ -64,11 +68,12 @@ a{
     font-weight: bold;
 }
 .card{
-    width: 300px;
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 .section_n2-cards{
-    display: flex;
-    gap: 10%;
+    margin: 0 auto;
 }
 .section_n3{
     margin-top: 60px;
@@ -83,6 +88,7 @@ a{
     margin-bottom: 40px;
 }
 .section_n3-cards--card{
+    margin: 0 auto;
     width: 300px;
 }
 .card_n3-pic{
@@ -92,4 +98,88 @@ a{
     display: flex;
     flex-direction: row;
     align-items: end;
+}
+.section_n4{
+    flex-direction: column;
+    margin: 0 auto;
+}
+.section_n4-title{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 45px;
+    text-align: center;
+}
+.number_button{
+    margin: 10px auto;
+}
+.section_n4-subtitle{
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+.section_n4-course-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: #E9ECF1;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.section_n4-course-card--price{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.section_n4-course-card--name{
+    font-size: 18px;
+    width: 200px;
+    font-weight: bold;
+}
+.course-card-option-btn{
+    width: 200px;
+    height: 38px;
+    border-radius: 70px;
+    border: 0;
+    background-color: #2B2C30;
+    color: white;
+    font-weight: bold;
+}
+.section_n5{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.section_n5-cards{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+.section_n5-cards--card{
+    width: 30%;
+}
+.footer-start-string{
+    width: 550px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.start-btn{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    border: 0;
+    background-color: #000000;
+}
+.footer_start-section{
+    flex-direction: row;
+    gap: 40%;
+}
+.stit-gray{
+    color: #2B2C30;
+    width: 350px;
 }
