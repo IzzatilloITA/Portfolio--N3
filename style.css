@@ -1,0 +1,131 @@
+.section_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    gap: 20%;
+}
+.section_n1-title{
+    font-size: 48px;
+    width: 60%;
+    font-weight: bold;
+    margin: 0;
+}
+.section_n-2{
+    display: flex;
+    flex-direction: row;
+}
+.section_n2-main-text{
+    width: 300px;
+    font-size: 20px;
+}
+.section_n2-main-text--right{
+    width: 800px;
+}
+.left_con-pictures{
+    display: flex;
+    flex-direction: row ;
+    gap: 10px;
+}
+.head-pic{
+    width: 380px;
+}
+.section_n-3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 140px;
+    background-color: #E9ECF1;
+}
+.section_n3_courses{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+.section_n3_courses-course{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.bold_num{
+    font-size: 30px;
+    font-weight: bold;
+}
+.cc-text{
+    width: 100px;
+}
+.section_n4{
+    background-image: url(https://banfflakelouise.bynder.com/m/4aaa5faf752abd99/1500x810_jpg-2021_MinnewankaLoop_ScenicDrive_CascadeMountain_RobertMassey.jpg);
+    height: 300px;
+    border-radius: 20px;
+    background-size: 1200px 600px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-position: 50% 100%;
+}
+.section_n4_lessons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+.lesson_text{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 450px;
+}
+.section_n-5{
+    background-color: #E9ECF1;
+    margin-top: 60px;
+}
+.informations{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.section_n5_information{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-bottom: 60px;
+}
+.info_text-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.info_text-subtitle{
+    font-size: 18px;
+    color: #676767;
+}
+.section_6{
+    flex-direction: column;
+    gap: 50px;  
+}
+.section_n5-cards{
+    display: flex;
+    flex-direction: row;
+}
+.section_n5-cards-card{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-img{
+    width: 250px;
+}
+.card-title{
+    font-size: 20px;
+}
+.card-subtitle{
+    font-size: 18px;
+    color: #676767;
+}
