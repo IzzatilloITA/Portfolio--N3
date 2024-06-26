@@ -104,7 +104,11 @@ a{
     margin: 0 auto;
 }
 .section_n4-title{
+<<<<<<< HEAD
     width: 600px;
+=======
+    width: 700px;
+>>>>>>> 7ca45e59a688d71e3bb1893e36f86ffdb9191381
     margin: 0 auto;
     margin-top: 60px;
     font-size: 45px;
@@ -159,7 +163,10 @@ a{
 }
 .section_n5-cards--card{
     width: 30%;
+<<<<<<< HEAD
     margin: 10px;
+=======
+>>>>>>> 7ca45e59a688d71e3bb1893e36f86ffdb9191381
 }
 .footer-start-string{
     width: 550px;
@@ -184,6 +191,9 @@ a{
     color: #2B2C30;
     width: 350px;
 }
+<<<<<<< HEAD
 .footer_main-col{
     width: 250px;   
 } 
+=======
+>>>>>>> 7ca45e59a688d71e3bb1893e36f86ffdb9191381
